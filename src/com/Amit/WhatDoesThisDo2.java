@@ -12,7 +12,7 @@ import java.awt.*;
  */
 public class WhatDoesThisDo2 extends JApplet {
     public void init() {
-        int array[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11,12,13,14,15,16,17,18,19,20};
+        int array[] = {1, 2, 3, 4, };
         JTextArea outputArea = new JTextArea();
         JTextArea myArea = new JTextArea();
         someFunction(array, 0, outputArea);

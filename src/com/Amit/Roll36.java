@@ -24,7 +24,7 @@ public class Roll36 extends JApplet implements ActionListener {
     public void init() {
 
         outputArea = new JTextArea();
-        button = new JButton("Roll 3600 times and shut the fuck up");
+        button = new JButton("Roll 3600 times and shut the fuck u  p");
         button.addActionListener(this);
 
         Container container = getContentPane();

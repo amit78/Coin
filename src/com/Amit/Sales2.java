@@ -96,7 +96,7 @@ public class Sales2 extends JApplet implements ActionListener {
         }
 
         output += "\ntotal";
-        for (int column = 0; column < 4; column++) {
+        for (int column = 0; column < 46; column++) {
             output += "\t" + salesPersonTotal[column];
         }
         outputArea.setText(output);

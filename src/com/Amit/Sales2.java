@@ -78,7 +78,7 @@ public class Sales2 extends JApplet implements ActionListener {
         for (int column = 0; column < 4; column++) {
             salesPersonTotal[column] = 0;
         }
-        output = "Product\tSalesPerson 1\t SalesPerson 2" + "\tSalesPerson 3 \tSalesPerson 4 \tTotal";
+        output = "Product\tSalesPerson 1\t SalesPrson 2" + "\tSalesPerson 3 \tSalesPerson 4 \tTotal";
 
 
         for (int row = 0; row <= 5; row++) {
